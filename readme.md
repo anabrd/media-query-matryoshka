@@ -1,6 +1,6 @@
 # Media Query Matryoshka
 
-An exercise in CSS media queries illustrated throught the example of nesting dolls.
+An exercise in CSS media queries illustrated through the example of nesting dolls.
 
 [Github Pages link](https://anabrd.github.io/media-query-matryoshka/)
 
