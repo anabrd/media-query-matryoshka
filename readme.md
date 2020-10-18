@@ -2,6 +2,8 @@
 
 An exercise in CSS media queries illustrated throught the example of nesting dolls.
 
+[Github Pages link](https://anabrd.github.io/media-query-matryoshka/)
+
 ## Practice:
 
 - Media queries and breakpoints
